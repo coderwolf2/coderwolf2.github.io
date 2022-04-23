@@ -1,6 +1,6 @@
-# coderwolf2.github.io
+# wolfepickett.github.io
 ## Welcome
 
 *Wolfe Pickett
-- UCLA 2024, Statistics, Environmental Systems and Society
-- GPA: 3.95/4.0
+- UCLA 2024, Statistics, Data Science Engineering
+- GPA: 3.93/4.0
