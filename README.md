@@ -2,7 +2,6 @@
 ## Welcome
 
 Wolfe Pickett
-- University of California, Los Angeles | Expected Graduation June 2024
-- Major: Statistics (B.S.)
-- Minor(s): Data Science Engineering, Environmental Systems & Society
-- Cumulative GPA: 3.93/4.0
+- University of California, Los Angeles | Graduated June 2024
+- Major: Statistics and Data Science (B.S.)
+- Minor(s): Mathematics
